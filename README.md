@@ -38,7 +38,7 @@ sudo apt install python3-pil
 
 1. Clone or download the script:
 ```bash
-git clone <repository-url>
+git clone https://github.com/giel-arch/Wifi-destroyer.deauther.git
 cd Wifi-destroyer.deauther
 ```
 
